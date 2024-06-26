@@ -2,7 +2,7 @@ import uuid
 import requests
 import json
 
-auth = 'ZDllMjJjMTEtMDgwYS00OWU4LTkxZjAtOWFkNjk1ODgxZjRiOmE1NGY1ZTY2LWI5MjctNGM4Mi05NTY3LTZiNmU5ZmUyODRjYw=='
+auth = ''
 
 def get_token(auth_token, scope='GIGACHAT_API_PERS'):
     # Создадим идентификатор UUID (36 знаков)

@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, CallbackContext
 import GigaLogic
 import Kandivsky
 
-TELEGRAM_TOKEN = "7450692282:AAFm7Gk29yi22rsAj99eB8KdIBDPLf134ZQ"
+TELEGRAM_TOKEN = ""
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelво)s - %(message)s', level=logging.INFO)
